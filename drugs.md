@@ -1,109 +1,109 @@
 # Drug Stems Cheat Sheet
 
-Source: [NursesLabs](https://nurseslabs.com/common-generic-drug-stem-cheat-sheet/)
+Source: [NursesLabs](https://nurseslabs.com/common-generic-drug-stem-cheat-sheet/) (edited)
 
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
-| STEM | DEFINITION | EXAMPLES |
-| :---: | :---: | :---: |
-| –ac | NSAID (acetic acid derivatives) | bromfen**ac**, dexpemedol**ac** |
-| –adol– | mixed opiate receptor agonists/antagonists | levonantr**adol**, spir**adol**ine, taz**adol**ene |
-| –afil | Inhibitor of PDE5 with vasodilator action | silden**afil** (viagra), tadal**afil** |
-| –alol | Combined alpha and beta blockers | labet**alol**, medrox**alol** |
-| –andr– | Androgens | n**andr**olone |
-| –anib | Angiogenesis inhibitors (inhibits growth of new blood vessels) | Pazop**anib**, Vandet**anib** |
-| –anserin | Serotonin 5–HT(sub)2 receptor antagonists | alt**anserin**, trop**anserin** |
-| –arabine | Antineoplastics (arabinofuranosyl derivatives) | flud**arabine** |
-| –ase | Enzymes | alglucer**ase**, dorn**ase** alfa |
-| –atadine | Tricyclic antiasthmatics | olop**atadine**, lor**atadine** |
-| –axine | Antianxiety, antidepressant | venlaf**axine** |
-| –azenil | Benzodiazepine receptor agonists/antagonists | bret**azenil**, flum**azenil** |
-| –azepam | Antianxiety agents (diazepam type) | lor**azepam**, di**azepam** |
-| –azepide | Cholecystokinin receptor antagonists | dev**azepide** |
-| –azocine | Narcotic antagonists/agonists | quad**azocine**, ket**azocine** |
-| –azoline | Antihistamines/local vasoconstrictors | ant**azoline** |
-| –azosin | Antihypertensives (prazosin type) | dox**azosin** |
-| –bactam | Beta–lactamase inhibitors | sul**bactam** |
-| –bamate | Tranquilizers/antiepileptics | mepro**bamate**, fel**bamate** |
-| –barb– | Barbituric acid derivatives | pheno**barb**ital, seco**barb**ital |
-| –bersat | Anticonvulsants; antimigraine | cara**bersat**; tidem**bersat** |
-| –bufen | NSAID (fenbufen derivatives) | indo**bufen** |
-| –butan | Antiseptics | dapa**butan**, lop**butan** |
-| –butazone | Anti–inflammatory analgesics (phenylbutazone type) | mofe**butazone** |
-| –caine | Local anesthetics | lido**caine**, dibu**caine** |
-| –carbef | Antibiotics (carbacephem derivatives) | lora**carbef** |
-| –cillin | Penicillins | ampi**cillin**, peni**cillin**, oxa**cillin** |
-| –cog | blood coagulation factors | epta**cog** alfa, nona**cog** alfa, octo**cog** alfa |
-| –conazole | Antifungals (miconazole type) | flu**conazole**, oxi**conazole** |
-| –cort– | Cortisone derivatives | hydro**cort**isone |
-| –curium | Neuromuscular blocking agents | atra**curium** |
-| –cycline | Antibiotics (tetracycline type) | mino**cycline**, tetra**cycline** |
-| –dralazine | Antihypertensives (hydrazine–phthalazines) | hy**dralazine** |
-| –dronate | Calcium metabolism regulators | eti**dronate**, tilu**dronate** |
-| –ectin | Antiparasitics (ivermectin type) | doram**ectin**, moxid**ectin** |
-| –erg– | Ergot alkaloid derivatives | p**erg**olide |
-| –etanide | Diuretics | bum**etanide** |
-| –fenamic acid | Anti-inflammatory agents | me**fenamic acid**, flu**fenamic acid** |
-| –fentanil | Narcotic analgesics | al**fentanil**, mir**fentanil** |
-| –fibrate | Antihyperlipidemics | beza**fibrate** |
-| –flurane | Inhalation anesthetics | en**flurane**, iso**flurane** |
-| –gest– | Progestins | me**gest**rol |
-| –giline | MAO-inhibitors, type B | sele**giline** |
-| –gillin | Antibiotics (aspergillus strains) | mito**gillin** |
-| –gliptin | Antihyperglycemics | vilda**gliptin** |
-| –glitazar | Antihyperglycemics, PPRA agonists | far**glitazar** |
-| –glizatone | Antihyperglycemics, PPST agonists | ci**glitazone**, rosi**glitazone** |
-| –grel– | Platelet aggregation inhibitor | clopido**grel**, tica**grel**or |
-| –imex | Immunostimulants | forfen**imex**, roquin**imex** |
-| –imus | Immunosuppresives | tacrol**imus**, napir**imus**, gusper**imus** |
-| –irudin | Anticoagulants | des**irudin** |
-| –leukin | Interleukin–2 derivatives | tece**leukin**, aldes**leukin** |
-| –lukast | Leukotriene antagonists | monte**lukast**, zafir**lukast** |
-| –mab | Monoclonal antibodies | capro**mab**, daclizu**mab**, detumo**mab** |
-| –mantadine | Antivirals | ri**mantadine** |
-| –milast | Antiasthmatics/antiallergics; type IV phosphodiesterase inhibitors | picla**milast** |
-| –monam | Monobactam antibiotics | gloxi**monam** |
-| –mustine | Antineoplastics | carm**ustine** |
-| –mycin | Antibiotics (streptomyces strains) | linco**mycin** |
-| –olol | Beta–blockers (propranolol type) | tim**olol**, aten**olol** |
-| –olone | Steroids (no prednisone derivatives) | minax**olone** |
-| –orphan | Narcotic antagonists/agonists | methr**ophan**, dextr**orphan** |
-| –oxacin | Antibiotics (quinolone derivatives) | difl**oxacin**, ciprofl**oxacin** |
-| –oxetine | Antidepressants | dul**oxetine**, reb**oxetine** |
-| –pamide | Diuretics (sulfamoylbenzoic acid derivatives) | adi**pamide** |
-| –pamil | Coronary vasodilators | tia**pamil** |
-| –parin | Heparin derivatives | he**parin**, tinza**parin**, dalte**parin** |
-| –peridol | Antipsychotics (haloperidol type) | halo**peridol** |
-| –peridone | Antispsychotics (risperidone type) | ris**peridone**, ilo**peridone** |
-| –pidem | Hypnotics/sedatives (zolpidem) | zol**pidem**, al**pidem** |
-| –piridine | Cognition enhancers | lino**piridine**, besi**piridine** |
-| –poetin | Erythropoietins | e**poetin** alfa, e**poetin** beta |
-| –pramine | Antidepressants (imipramine type) | lofe**pramine** |
-| –prazole | Proton-pump inhibitor | ome**prazole**, lanso**prazole** |
-| –pred– | Prednisone derivatives | **pred**nicarbate, clo**pred**nol |
-| –pril | Antihypertensives (ACE inhibitors) | capto**pril**, temoca**pril**, spira**pril** |
-| –profen | Anti–inflammatory/analgesic agents (ibuprofen type) | flurbi**profen** |
-| –prost– | Prostaglandin analogue | latano**prost**, uno**prost**one |
-| –rubicin | Antineoplastic antibiotics (daunorubicin type) | epi**rubicin**, ida**rubicin** |
-| –sartan | Angiotensin II receptor antagonists | lo**sartan**, epro**sartan** |
-| –statin | Renal dehydropeptidase inhibitor pepsin inhibitor | cila**statin**, pep**statin** |
-| –ster– | Steroids (androgens, anabolics) | testo**ster**one |
-| –sulfa | Antibiotics (sulfonamide derivatives) | **sulfa**salazine |
-| –tegrast | Antiasthmatics/antiallergics; integrin antagonists | vala**tegrast** |
-| –terol | Bronchodilators (phenethylamine derivatives) | albu**terol** |
-| –thiazide | Diuretics (thiazide derivatives) | chloro**thiazide** |
-| –tide | peptides and glycopeptides | Nesiri**tide**, Octreo**tide** |
-| –tocin | Oxytocin derivatives | oxy**tocin**, pi**tocin** |
-| –trexate | Antimetabolites (folic acid derivatives) | metho**trexate** |
-| –triptyline | Antidepressants | ami**triptyline** |
-| –trodast | Antiasthmatics/antiallergics; thromboxane A2 receptor antagonists | sera**trodast** |
-| –uracil | Uracil derivatives used as thyroid antagonists and as antineoplastics | fluoro**uracil** |
-| –vastatin | Antihyperlipidemics (HMG–CoA inhibitors) | lo**vastatin**, sim**vastatin** |
-| –zolast | Antiasthmatics/antiallergics; benzoxazole derivatives | ecla**zolast**, onta**zolast** |
-| –zumab | humanized antibodies | natali**zumab**, bevaci**zumab** |
-| bol–, –bol– | Anabolic steroids | **bol**andiol, mi**bol**erone |
-| cef– | Cephalosporins (first-gen) | **cef**azolin |
-| estr– | Estrogens | **estr**one |
-| vir-, -vir- or -vir | Antiviral substances (undefined group) | **vir**oxime, en**vir**odyne, ganciclo**vir** |
+| STEM | TYPE | DEFINITION | EXAMPLES |
+| :---: | :---: | :---: | :---: |
+| -ac |  | NSAID (acetic acid derivatives) | bromfenac, dexpemedolac |
+| -adol- |  | mixed opiate receptor agonists/antagonists | levonantradol, spiradoline, tazadolene |
+| -afil |  | Inhibitor of PDE5 with vasodilator action | sildenafil (viagra), tadalafil |
+| -alol |  | Combined alpha and beta blockers | labetalol, medroxalol |
+| -andr- |  | Androgens | nandrolone |
+| -anib |  | Angiogenesis inhibitors (inhibits growth of new blood vessels) | Pazopanib, Vandetanib |
+| -anserin |  | Serotonin 5-HT(sub)2 receptor antagonists | altanserin, tropanserin |
+| -arabine |  | Antineoplastics (arabinofuranosyl derivatives) | fludarabine |
+| -ase |  | Enzymes | alglucerase, dornase alfa |
+| -atadine |  | Tricyclic antiasthmatics | olopatadine, loratadine |
+| -axine |  | Antianxiety, antidepressant | venlafaxine |
+| -azenil |  | Benzodiazepine receptor agonists/antagonists | bretazenil, flumazenil |
+| -azepam |  | Antianxiety agents (diazepam type) | lorazepam, diazepam |
+| -azepide |  | Cholecystokinin receptor antagonists | devazepide |
+| -azocine |  | Narcotic antagonists/agonists | quadazocine, ketazocine |
+| -azoline |  | Antihistamines/local vasoconstrictors | antazoline |
+| -azosin |  | Antihypertensives (prazosin type) | doxazosin |
+| -bactam |  | Beta-lactamase inhibitors | sulbactam |
+| -bamate |  | Tranquilizers/antiepileptics | meprobamate, felbamate |
+| -barb- |  | Barbituric acid derivatives | phenobarbital, secobarbital |
+| -bersat |  | Anticonvulsants; antimigraine | carabersat; tidembersat |
+| bol-, -bol- |  | Anabolic steroids | bolandiol, mibolerone |
+| -bufen |  | NSAID (fenbufen derivatives) | indobufen |
+| -butan |  | Antiseptics | dapabutan, lopbutan |
+| -butazone |  | Anti-inflammatory analgesics (phenylbutazone type) | mofebutazone |
+| -caine |  | Local anesthetics | lidocaine, dibucaine |
+| -carbef |  | Antibiotics (carbacephem derivatives) | loracarbef |
+| cef- |  | Cephalosporins (first-gen) | cefazolin |
+| -cillin |  | Penicillins | ampicillin, penicillin, oxacillin |
+| -cog |  | blood coagulation factors | eptacog alfa, nonacog alfa, octocog alfa |
+| -conazole |  | Antifungals (miconazole type) | fluconazole, oxiconazole |
+| -cort- |  | Cortisone derivatives | hydrocortisone |
+| -curium |  | Neuromuscular blocking agents | atracurium |
+| -cycline |  | Antibiotics (tetracycline type) | minocycline, tetracycline |
+| -dralazine |  | Antihypertensives (hydrazine-phthalazines) | hydralazine |
+| -dronate |  | Calcium metabolism regulators | etidronate, tiludronate |
+| -ectin |  | Antiparasitics (ivermectin type) | doramectin, moxidectin |
+| -erg- |  | Ergot alkaloid derivatives | pergolide |
+| estr- |  | Estrogens | estrone |
+| -etanide |  | Diuretics | bumetanide |
+| -fenamic acid |  | Anti-inflammatory agents | mefenamic acid, flufenamic acid |
+| -fentanil |  | Narcotic analgesics | alfentanil, mirfentanil |
+| -fibrate |  | Antihyperlipidemics | bezafibrate |
+| -flurane |  | Inhalation anesthetics | enflurane, isoflurane |
+| -gest- |  | Progestins | megestrol |
+| -giline |  | MAO-inhibitors, type B | selegiline |
+| -gillin |  | Antibiotics (aspergillus strains) | mitogillin |
+| -gliptin |  | Antihyperglycemics | vildagliptin |
+| -glitazar |  | Antihyperglycemics, PPRA agonists | farglitazar |
+| -glizatone |  | Antihyperglycemics, PPST agonists | ciglitazone, rosiglitazone |
+| -grel- |  | Platelet aggregation inhibitor | clopidogrel, ticagrelor |
+| -imex |  | Immunostimulants | forfenimex, roquinimex |
+| -imus |  | Immunosuppresives | tacrolimus, napirimus, gusperimus |
+| -irudin |  | Anticoagulants | desirudin |
+| -leukin |  | Interleukin-2 derivatives | teceleukin, aldesleukin |
+| -lukast |  | Leukotriene antagonists | montelukast, zafirlukast |
+| -mab |  | Monoclonal antibodies | capromab, daclizumab, detumomab |
+| -mantadine |  | Antivirals | rimantadine |
+| -milast |  | Antiasthmatics/antiallergics; type IV phosphodiesterase inhibitors | piclamilast |
+| -monam |  | Monobactam antibiotics | gloximonam |
+| -mustine |  | Antineoplastics | carmustine |
+| -mycin |  | Antibiotics (streptomyces strains) | lincomycin |
+| -olol |  | Beta-blockers (propranolol type) | timolol, atenolol |
+| -olone |  | Steroids (no prednisone derivatives) | minaxolone |
+| -orphan |  | Narcotic antagonists/agonists | methrophan, dextrorphan |
+| -oxacin |  | Antibiotics (quinolone derivatives) | difloxacin, ciprofloxacin |
+| -oxetine |  | Antidepressants | duloxetine, reboxetine |
+| -pamide |  | Diuretics (sulfamoylbenzoic acid derivatives) | adipamide |
+| -pamil |  | Coronary vasodilators | tiapamil |
+| -parin |  | Heparin derivatives | heparin, tinzaparin, dalteparin |
+| -peridol |  | Antipsychotics (haloperidol type) | haloperidol |
+| -peridone |  | Antispsychotics (risperidone type) | risperidone, iloperidone |
+| -pidem |  | Hypnotics/sedatives (zolpidem) | zolpidem, alpidem |
+| -piridine |  | Cognition enhancers | linopiridine, besipiridine |
+| -poetin |  | Erythropoietins | epoetin alfa, epoetin beta |
+| -pramine |  | Antidepressants (imipramine type) | lofepramine |
+| -prazole |  | Proton-pump inhibitor | omeprazole, lansoprazole |
+| -pred- |  | Prednisone derivatives | prednicarbate, cloprednol |
+| -pril |  | Antihypertensives (ACE inhibitors) | captopril, temocapril, spirapril |
+| -profen |  | Anti-inflammatory/analgesic agents (ibuprofen type) | flurbiprofen |
+| -prost- |  | Prostaglandin analogue | latanoprost, unoprostone |
+| -rubicin |  | Antineoplastic antibiotics (daunorubicin type) | epirubicin, idarubicin |
+| -sartan |  | Angiotensin II receptor antagonists | losartan, eprosartan |
+| -statin |  | Renal dehydropeptidase inhibitor pepsin inhibitor | cilastatin, pepstatin |
+| -ster- |  | Steroids (androgens, anabolics) | testosterone |
+| -sulfa |  | Antibiotics (sulfonamide derivatives) | sulfasalazine |
+| -tegrast |  | Antiasthmatics/antiallergics; integrin antagonists | valategrast |
+| -terol |  | Bronchodilators (phenethylamine derivatives) | albuterol |
+| -thiazide |  | Diuretics (thiazide derivatives) | chlorothiazide |
+| -tide |  | peptides and glycopeptides | Nesiritide, Octreotide |
+| -tocin |  | Oxytocin derivatives | oxytocin, pitocin |
+| -trexate |  | Antimetabolites (folic acid derivatives) | methotrexate |
+| -triptyline |  | Antidepressants | amitriptyline |
+| -trodast |  | Antiasthmatics/antiallergics; thromboxane A2 receptor antagonists | seratrodast |
+| -uracil |  | Uracil derivatives used as thyroid antagonists and as antineoplastics | fluorouracil |
+| -vastatin |  | Antihyperlipidemics (HMG-CoA inhibitors) | lovastatin, simvastatin |
+| vir-, -vir- or -vir |  | Antiviral substances (undefined group) | viroxime, envirodyne, ganciclovir |
+| -zolast |  | Antiasthmatics/antiallergics; benzoxazole derivatives | eclazolast, ontazolast |
+| -zumab |  | humanized antibodies | natalizumab, bevacizumab |
