@@ -21,6 +21,8 @@ drugs_zh_md_head = """# 药物速查表
 
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+「<x>」 代表音节。
+
 ---
 
 """
