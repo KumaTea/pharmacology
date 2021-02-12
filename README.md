@@ -12,8 +12,8 @@
 | :---: | :---: | :---: | :---: |
 | ? (ac) |  | NSAID（乙酸衍生物） | 溴芬酸；右旋美托拉克 |
 | ? (adol) |  | 混合阿片受体激动剂/拮抗剂 | 左炔诺醇；螺环素；他扎多林 |
-| ? (afil) |  | 具有血管扩张作用的PDE5抑制剂 | 西地那非（伟哥）；他达拉非 |
-| ? (alol) |  | 组合的α和β受体阻滞剂 | 拉贝洛尔；美沙洛尔 |
+| a非 (afil) | [PDE5](https://en.m.wikipedia.org/wiki/PDE5)[抑制剂](https://en.wikipedia.org/wiki/PDE5_inhibitor) | | 西地那非；他达拉非 |
+| 洛尔 (alol) | [α](https://en.m.wikipedia.org/wiki/Alpha_blocker) & [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | | 拉贝洛尔；美沙洛尔 |
 | ? (andr) |  | 雄激素 | 19-去甲睾酮 |
 | ? (anib) |  | 血管生成抑制剂（抑制新血管的生长） | 帕唑帕尼；万得他尼 |
 | ? (anserin) |  | 5-羟色胺5-HT（sub）2受体拮抗剂 | 丹参；肌钙蛋白 |
@@ -73,7 +73,7 @@
 | ? (monam) |  | 单bactam抗生素 | 格罗昔康 |
 | ? (mustine) |  | 抗肿瘤药 | 卡莫斯汀 |
 | ? (mycin) |  | 抗生素（链霉菌菌株） | 林可霉素 |
-| ? (olol) |  | β受体阻滞剂（普萘洛尔型） | 噻吗洛尔；阿替洛尔 |
+| 洛尔 (olol) | [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | | 普萘洛尔；美托洛尔 |
 | ? (olone) |  | 类固醇（无泼尼松衍生物） | 米沙酮 |
 | ? (orphan) |  | 麻醉剂拮抗剂/激动剂 | 美洛芬；右啡烷 |
 | ? (oxacin) |  | 抗生素（喹诺酮衍生物） | 地氟沙星；环丙沙星 |
