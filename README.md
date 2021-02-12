@@ -12,10 +12,10 @@
 | :---: | :---: | :---: | :---: |
 | ? (ac) |  | NSAID（乙酸衍生物） | 溴芬酸；右旋美托拉克 |
 | ? (adol) |  | 混合阿片受体激动剂/拮抗剂 | 左炔诺醇；螺环素；他扎多林 |
-| a非 (afil) | [PDE5](https://en.m.wikipedia.org/wiki/PDE5)[抑制剂](https://en.wikipedia.org/wiki/PDE5_inhibitor) | | 西地那非；他达拉非 |
-| 洛尔 (alol) | [α](https://en.m.wikipedia.org/wiki/Alpha_blocker) & [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | | 拉贝洛尔；美沙洛尔 |
+| a非 (afil) | [PDE5](https://en.m.wikipedia.org/wiki/PDE5)[抑制剂](https://en.wikipedia.org/wiki/PDE5_inhibitor) | 血管舒张药 | 西地那非；他达拉非 |
+| 洛尔 (alol) | [α](https://en.m.wikipedia.org/wiki/Alpha_blocker) & [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | 降血压药 | 拉贝洛尔；美沙洛尔 |
 | ? (andr) |  | 雄激素 | 19-去甲睾酮 |
-| ? (anib) |  | 血管生成抑制剂（抑制新血管的生长） | 帕唑帕尼；万得他尼 |
+| ? (anib) | [血管生成抑制剂](https://en.m.wikipedia.org/wiki/Angiogenesis) | [酪氨酸激酶抑制剂](https://en.m.wikipedia.org/wiki/Tyrosine_kinase_inhibitor) | 帕唑帕尼；万得他尼 |
 | ? (anserin) |  | 5-羟色胺5-HT（sub）2受体拮抗剂 | 丹参；肌钙蛋白 |
 | ? (arabine) |  | 抗肿瘤药（阿拉伯呋喃糖基衍生物） | 氟达拉滨 |
 | ? (ase) |  | 酵素 | 葡糖苷酶；阿尔法酶 |
@@ -44,7 +44,7 @@
 | ? (cort) |  | 可的松衍生物 | 氢羟肾上腺皮质素 |
 | ? (curium) |  | 神经肌肉阻滞剂 | 阿曲库铵 |
 | ? (cycline) |  | 抗生素（四环素类） | 米诺环素；四环霉素 |
-| 地平 (dipine) | 二氢吡啶 (dihydropyridine) | CCB |  |
+| 地平 (dipine) | [钙通道阻滞剂](https://en.wikipedia.org/wiki/Calcium_channel_blocker) | 降血压药 | 硝苯地平 |
 | ? (dralazine) |  | 降压药（肼-酞嗪类） | 肼屈嗪 |
 | ? (dronate) |  | 钙代谢调节剂 | 羟基乙叉二膦酸；替罗膦酸盐 |
 | ? (ectin) |  | 抗寄生虫药（伊维菌素类） | 多拉菌素；莫西菌素 |
@@ -73,7 +73,7 @@
 | ? (monam) |  | 单bactam抗生素 | 格罗昔康 |
 | ? (mustine) |  | 抗肿瘤药 | 卡莫斯汀 |
 | ? (mycin) |  | 抗生素（链霉菌菌株） | 林可霉素 |
-| 洛尔 (olol) | [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | | 普萘洛尔；美托洛尔 |
+| 洛尔 (olol) | [β受体阻滞剂](https://en.m.wikipedia.org/wiki/Beta_blocker) | 降血压药 | 普萘洛尔；美托洛尔 |
 | ? (olone) |  | 类固醇（无泼尼松衍生物） | 米沙酮 |
 | ? (orphan) |  | 麻醉剂拮抗剂/激动剂 | 美洛芬；右啡烷 |
 | ? (oxacin) |  | 抗生素（喹诺酮衍生物） | 地氟沙星；环丙沙星 |
@@ -109,7 +109,7 @@
 | ? (vastatin) |  | 抗高血脂药（HMG–CoA抑制剂） | 洛伐他汀；辛伐他汀 |
 | 韦 (vir) |  | 抗病毒 | 病毒血症；环糊精；更昔洛韦 |
 | ? (zolast) |  | 抗哮喘药/抗过敏药；苯并恶唑衍生物 | 弹性体；恩他唑 |
-| ? (zumab) |  | 人源化抗体 | 那他珠单抗；贝伐珠单抗 |
+| 珠单抗 (zumab) | [人源化抗体](https://en.wikipedia.org/wiki/Humanized_antibody) | h**u**mani**z**ed **m**onoclonal **a**nti**b**ody | 那他珠单抗；贝伐珠单抗 |
 
 ---
 
