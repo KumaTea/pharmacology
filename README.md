@@ -4,7 +4,7 @@
 ## 药物速查表
 * [Drug Stems Cheat Sheet](drugs.md)
 * 来源: [NursesLabs](https://nurseslabs.com/common-generic-drug-stem-cheat-sheet/) (有删改)
-* License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
@@ -89,7 +89,7 @@
 | ? (pramine) |  | 抗抑郁药（丙咪嗪类） | 洛非拉明 |
 | ? (prazole) |  | 质子泵抑制剂 | 奥美拉唑；兰索拉唑 |
 | ? (pred) |  | 泼尼松衍生物 | 泼尼卡酯；氯丁泼尼 |
-| 普利 (pril) | ACEI | 降压药（ACE抑制剂） | 卡托普利；替莫卡普利；螺哌普利 |
+| 普利 (pril) | [ACEI](https://en.wikipedia.org/wiki/ACE_inhibitor) | 降压药（ACE抑制剂） | 卡托普利；替莫卡普利；螺哌普利 |
 | ? (profen) |  | 抗炎/止痛药（布洛芬型） | 氟比洛芬 |
 | ? (prost) |  | 前列腺素类似物 | 拉坦前列素；unoprostone |
 | ? (rubicin) |  | 抗肿瘤抗生素（柔红霉素型） | 表柔比星；伊达比星 |
@@ -114,6 +114,6 @@
 ---
 
 ### Disclaimer / 免责声明
-**Cheat Sheet** is a idiom. DO NOT CHEAT IN YOUR EXAMS.
+**Cheat Sheet** is an idiom. DO NOT CHEAT IN YOUR EXAMS.
 
 「**小抄**」为英语熟语 _Cheat Sheet_ 的直译。**请勿考试作弊。**
